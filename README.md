@@ -29,7 +29,7 @@ How to Install osTicket v1.12 - Windows IIS - https://www.youtube.com/watch?v=K7
 
 <p>
 Step 1: Create resource group and virtual machine to utilize remote desktop for the IIS 
-<img src="https://i.imgur.com/psePory.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/4Kq3gnf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
