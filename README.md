@@ -35,11 +35,12 @@ Step 1: Create resource group and virtual machine to utilize remote desktop for 
 
 </p>
 <br />
-Step 2: Once IIS installed and enabled through the control panel we will install the Web Platform Installer for the prerequisites: MySQL, PHP
+Step 2: Once IIS installed and enabled through the control panel we will install the Web Platform Installer for the prerequisites: 
+MySQL, PHP
 <p>
 <img src= "https://i.imgur.com/f8TpMhk.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src= "https://i.imgur.com/Drf5PG5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-</p>
+</p> MySQL is a database that helps to automate data retrieving and provide great support in PHP
 <p>
 
 </p>
