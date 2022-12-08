@@ -22,8 +22,8 @@ How to Install osTicket v1.12 - Windows IIS - https://www.youtube.com/watch?v=K7
 <h2>List of Prerequisites</h2>
 
 - Creating a resource group and virtual machine
-- Item 2
-- Item 3
+- Installing the osTicket Requirements
+- Installing osTicket
 
 <h2>Installation Steps</h2>
 
