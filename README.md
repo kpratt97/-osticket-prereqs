@@ -29,6 +29,8 @@ How to Install osTicket v1.12 - Windows IIS - https://www.youtube.com/watch?v=K7
 
 <p>
 Step 1: Create resource group and virtual machine to utilize remote desktop for the IIS 
+  
+  
 <img src= "https://i.imgur.com/4Kq3gnf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -36,11 +38,13 @@ Step 1: Create resource group and virtual machine to utilize remote desktop for 
 </p>
 <br />
 Step 2: Once IIS installed and enabled through the control panel we will install the Web Platform Installer for the prerequisites: 
-MySQL, PHP
+MySQL, PHP. MySQL is a database that helps to automate data retrieving and provide great support in PHP
+
+
 <p>
 <img src= "https://i.imgur.com/f8TpMhk.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src= "https://i.imgur.com/Drf5PG5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-</p> MySQL is a database that helps to automate data retrieving and provide great support in PHP
+</p> 
 <p>
 
 </p>
