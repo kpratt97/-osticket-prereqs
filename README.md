@@ -6,7 +6,7 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
-How to Install osTicket v1.12 - Windows IIS ![image](https://user-images.githubusercontent.com/119460677/206354611-7ca54871-06f3-40fc-9f19-25d397b9498e.png)
+How to Install osTicket v1.12 - Windows IIS - https://www.youtube.com/watch?v=K7T_JjvEamg&t=105s
 
 
 <h2>Environments and Technologies Used</h2>
