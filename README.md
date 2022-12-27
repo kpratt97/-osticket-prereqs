@@ -49,11 +49,10 @@ MySQL, PHP. MySQL is a database that helps to automate data retrieving and provi
 
 </p>
 <br />
-Step 3:
+Step 3: After intsalling and enabling MySQL and PHP. We will now install osTicket v1.15.8, Reload IIS stop and start the server. On the right click "Browse*80"
 <p>
 <img src= "https://i.imgur.com/w8whqWt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
