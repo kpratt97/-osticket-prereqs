@@ -54,7 +54,7 @@ Step 3: After intsalling and enabling MySQL and PHP. We will now install osTicke
 <p>
 <img src= "https://i.imgur.com/w8whqWt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <p>
-img src= "https://i.imgur.com/uuwUZa7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+img src= "htt![Screenshot_20221228_114635](https://user-images.githubusercontent.com/119460677/209912577-afae219a-ae5d-4b45-b368-f6c1b8e8c1b5.png)
 </p>
 <p>
 </p>
