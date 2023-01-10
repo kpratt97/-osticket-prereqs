@@ -1,62 +1,48 @@
-# OsTicket Installation
+<h1>JWipe - Disk Sanitization</h1>
+
+ ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+
+<h2>Description</h2>
+Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>PowerShell</b> 
+- <b>Diskpart</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows 10</b> (21H2)
+
+<h2>Program walk-through:</h2>
+
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
-</p>
-
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-How to Install osTicket v1.12 - Windows IIS - https://www.youtube.com/watch?v=K7T_JjvEamg&t=105s
-
-
-<h2>Environments and Technologies Used</h2>
-
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
-
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
-
-<h2>List of Prerequisites</h2>
-
-- Creating a resource group and virtual machine
-- Installing the osTicket Requirements
-- Installing osTicket
-
-<h2>Installation Steps</h2>
-
-<p>
-Step 1: Create resource group and virtual machine to utilize remote desktop for the IIS 
-<p>  
-  
-<img src= "https://i.imgur.com/4Kq3gnf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Step 2: Once IIS installed and enabled through the control panel we will install the Web Platform Installer for the prerequisites: 
-MySQL, PHP. MySQL is a database that helps to automate data retrieving and provide great support in PHP
-
-<p>
-<p>
-<img src= "https://i.imgur.com/f8TpMhk.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src= "https://i.imgur.com/Drf5PG5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-
-</p> 
-<p>
-
-</p>
 <br />
-Step 3: After intsalling and enabling MySQL and PHP. We will now install osTicket v1.15.8, Reload IIS stop and start the server. On the right click "Browse*80"
-
-<p>
-<img src= "https://i.imgur.com/w8whqWt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-  
-<img src= "https://i.imgur.com/JhMnXr2.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-<p>
-</p>
-<p>
-</p>
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
