@@ -27,7 +27,8 @@ https://user-images.githubusercontent.com/119460677/213072359-b0736a35-daf7-4285
 
 <br />
 <br />
-Select the disk:  <br/>
+Set Domain Controller’s NIC Private IP address to be static:
+ <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
