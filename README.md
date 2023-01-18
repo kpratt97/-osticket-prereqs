@@ -20,8 +20,11 @@ Active Directory is a database and set of services that connect users with the n
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating the Domain and Client through Microsoft Azure: <br/>
+
+
+https://user-images.githubusercontent.com/119460677/213072359-b0736a35-daf7-4285-9519-1855219b15aa.mp4
+
 <br />
 <br />
 Select the disk:  <br/>
