@@ -61,7 +61,8 @@ https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b
 <br />
 <br />
 Sanitization complete:  <br/>
-
+<br />
+<br />
 
 https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd-95ca-37e35889df54.mp4
 
@@ -96,5 +97,5 @@ https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
