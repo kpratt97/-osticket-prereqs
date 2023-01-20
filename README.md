@@ -21,7 +21,7 @@ Active Directory is a database and set of services that connect users with the n
 
 <p align="center">
 Creating the Domain and Client through Microsoft Azure: <br/>
-
+<br />
 
 https://user-images.githubusercontent.com/119460677/213072359-b0736a35-daf7-4285-9519-1855219b15aa.mp4
 
@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/119460677/213072359-b0736a35-daf7-4285
 <br />
 <p align="center">
 Set Domain Controller’s NIC Private IP address to be static:
- <br/>
+<br/>
 
 
 https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031-8237-79514d4d58eb.mp4
@@ -40,8 +40,9 @@ https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031
 
 <br />
 <br />
+<p align="center">
 Enable ICMPv4 Protocols through Windows Firewall: <br/>
- 
+<br />
 
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
 
