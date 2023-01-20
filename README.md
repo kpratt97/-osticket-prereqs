@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031
 <br />
 <br />
 <p align="center">
-Enable ICMPv4 Protocols through Windows Firewall: <br/>
+Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firewall: <br/>
 <br />
 
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
@@ -52,7 +52,8 @@ Sanitization Steps"/>
 
 <br />
 <br />
-Wait for process to complete (may take some time):  
+<p align="center">
+Install Active Directory : Login to DC-1 to install Active Directory Domain Services  
  <br/>
 
 https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
