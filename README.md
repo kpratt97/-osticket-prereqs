@@ -22,11 +22,9 @@ Active Directory is a database and set of services that connect users with the n
 <p align="center">
 Creating the Domain and Client through Microsoft Azure: <br/>
 <br />
-
-
-
-https://user-images.githubusercontent.com/119460677/213618096-22ad8ebd-6de2-4a65-99e2-898d86b854c6.mp4
 <br />
+https://user-images.githubusercontent.com/119460677/213618096-22ad8ebd-6de2-4a65-99e2-898d86b854c6.mp4
+
 
 <br />
 <br />
@@ -36,10 +34,6 @@ Set Domain Controller’s NIC Private IP address to be static:
 
 
 https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031-8237-79514d4d58eb.mp4
-
-
-
-
 
 <br />
 <br />
