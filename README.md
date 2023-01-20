@@ -23,7 +23,11 @@ Active Directory is a database and set of services that connect users with the n
 Creating the Domain and Client through Microsoft Azure: <br/>
 <br />
 <br />
-https://user-images.githubusercontent.com/119460677/213618096-22ad8ebd-6de2-4a65-99e2-898d86b854c6.mp4
+
+
+https://user-images.githubusercontent.com/119460677/213619351-5dde2022-8b5a-4b68-850d-fec003823826.mp4
+
+
 
 
 <br />
