@@ -52,8 +52,12 @@ Sanitization Steps"/>
 
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wait for process to complete (may take some time):  
+ <br/>
+
+https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
+
+
 <br />
 <br />
 Sanitization complete:  <br/>
