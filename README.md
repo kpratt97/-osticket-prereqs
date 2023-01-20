@@ -27,6 +27,7 @@ https://user-images.githubusercontent.com/119460677/213072359-b0736a35-daf7-4285
 
 <br />
 <br />
+<p align="center">
 Set Domain Controller’s NIC Private IP address to be static:
  <br/>
 
@@ -39,8 +40,12 @@ https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031
 
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable ICMPv4 Protocols through Windows Firewall: <br/>
+ 
+
+https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
+
+Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
