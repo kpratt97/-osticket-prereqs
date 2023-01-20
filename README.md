@@ -29,6 +29,7 @@ https://user-images.githubusercontent.com/119460677/213618096-22ad8ebd-6de2-4a65
 <br />
 Example: Virtual Machines
 <br />
+<br />
 <img src= "https://i.imgur.com/ey0VJQe.png" height ="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
