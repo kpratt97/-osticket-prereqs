@@ -77,7 +77,11 @@ https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+https://user-images.githubusercontent.com/119460677/213627540-ebfa1117-f602-40eb-9c1f-0fe5acb08e2d.mp4
+
+
 </p>
 <br />
 <br />
