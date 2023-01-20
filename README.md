@@ -26,7 +26,10 @@ Creating the Domain and Client through Microsoft Azure: <br/>
 
 
 https://user-images.githubusercontent.com/119460677/213618096-22ad8ebd-6de2-4a65-99e2-898d86b854c6.mp4
-
+<br />
+Example: Virtual Machines
+<br />
+<img src= "https://i.imgur.com/ey0VJQe.png" height ="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 <br />
