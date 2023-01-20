@@ -30,7 +30,11 @@ https://user-images.githubusercontent.com/119460677/213072359-b0736a35-daf7-4285
 Set Domain Controller’s NIC Private IP address to be static:
  <br/>
 
-https://user-images.githubusercontent.com/119460677/213608273-0e19b7b7-61c4-42ad-97fb-912fab15dd9f.mp4
+
+https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031-8237-79514d4d58eb.mp4
+
+
+
 
 
 <br />
