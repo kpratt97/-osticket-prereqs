@@ -49,9 +49,7 @@ https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13
 
 Sanitization Steps"/>
 <br />
-<br />
-Confirm your selection:  <br/>
-<img src= "https://i.imgur.com/ey0VJQe.png" height ="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
