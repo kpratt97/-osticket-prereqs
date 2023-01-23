@@ -20,7 +20,7 @@ Active Directory is a database and set of services that connect users with the n
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating the Domain and Client through Microsoft Azure: <br/>
+Step 1: Creating the Domain and Client through Microsoft Azure: <br/>
 <br />
 <br />
 
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/119460677/213619351-5dde2022-8b5a-4b68
 <br />
 <br />
 <p align="center">
-Set Domain Controller’s NIC Private IP address to be static:
+Step 2: Set Domain Controller’s NIC Private IP address to be static:
 <br/>
 
 
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031
 <br />
 <br />
 <p align="center">
-Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firewall: <br/>
+Step 3: Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firewall: <br/>
 <br />
 
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
@@ -53,7 +53,7 @@ Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
-Install Active Directory : Login to DC-1 to install Active Directory Domain Services, it also requested to create a forest called "myteddy.com"
+Step 4: Install Active Directory : Login to DC-1 to install Active Directory Domain Services, it also requested to create a forest called "myteddy.com"
  ( It's not shown in the video but it will request a forest when installing active directory)
  <br/>
 
