@@ -136,6 +136,20 @@ Step 7: Click “Remote Desktop” Allow “domain users” access to remote des
 </p>
 <br />
 <br />
+</p>
+<br />
+<br />
+<p align="center">
+Step 7: Click “Remote Desktop” Allow “domain users” access to remote desktop
+ <br/>
+<img src= "(https://i.imgur.com/bFI4pnJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+</p>
+<br />
+<br />
+
+
+
 <p align="center">
 Step 8: Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain computer will restart. :  
 <br/>
