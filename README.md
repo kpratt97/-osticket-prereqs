@@ -129,6 +129,7 @@ https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e
 <br />
 <br />
 <p align="center">
-Step 6: Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 7: Click “Remote Desktop” Allow “domain users” access to remote desktop
+ <br/>
+<img src= "https://i.imgur.com/ERlcnvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
