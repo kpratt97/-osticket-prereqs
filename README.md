@@ -117,7 +117,7 @@ Step 5 cont'd: Restart client 1.  <br/>
 <br />
 <br />
 <p align="center">
-Step 6: Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain  :  
+Step 6: Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain computer will restart. :  
 <br/>
 <br />
 <br />
