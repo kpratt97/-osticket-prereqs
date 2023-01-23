@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940
 <br />
   <br/>
 <p align="center">
-Step 5: set Client-1’s DNS settings to the DC’s Private IP address
+Step 5: set Client-1’s DNS settings to the DC’s Private IP address, restart client 1.
 <br />
 <br />
 
@@ -107,7 +107,10 @@ https://user-images.githubusercontent.com/119460677/213627540-ebfa1117-f602-40eb
 </p>
 <br />
 <br />
-
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/GWILOLN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e-af4e-60cdeda8b895.mp4
