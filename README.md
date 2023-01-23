@@ -159,9 +159,15 @@ Step 8: Login to DC-1 as Luffy_Admin
 <br />
 
 <p align="center">
-Step 9: Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain computer will restart. :  
+Step 9: Open PowerShell_ise as an administrator create a new File, paste the contents of the pre made script into the file, run the script and observe the accounts being created. 
+ Side note: There were error messages due to my script uploading to "_EMPLOYEES" which was non existent due to changing the file name to “_EMPLOYEES_”. 
+ I updated the script and finally the usernames started processing  :  
 <br/>
-<br />
+<br /
 <br />
  
-https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e-af4e-60cdeda8b895.mp4
+
+
+https://user-images.githubusercontent.com/119460677/214143495-f18be381-8b5c-4b3c-9dda-b39b3166903b.mp4
+
+
