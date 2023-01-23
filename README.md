@@ -49,7 +49,9 @@ https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13
 
 
 <br />
-
+<br />
+ 
+</p>
 <br />
 <br />
 <p align="center">
@@ -58,18 +60,17 @@ Step 4: Install Active Directory : Login to DC-1 to install Active Directory Dom
  <br/>
 
 https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
- 
-<br />
+
 </p>
 <br />
 <br />
- <p align="center">
- Step 4 cont'd: Create forest during active directory installation
- <br />
+<p align="center">
+Step 4 cont'd: Create forest during active directory installation
+<br />
 <br />
  <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+</p>
 <br />
 <br />
 <p align="center">
@@ -93,7 +94,7 @@ Step 5 Post AD installation: Create a new employee named “Luffy Monkey” (sam
 
 https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940-8257-692d417dd1fb.mp4
 
-
+</p>
 <br />
 <br />
   <br/>
@@ -137,11 +138,12 @@ Step 7: Click “Remote Desktop” Allow “domain users” access to remote des
  Now we're able to login into Client-1 as a non-administrative user.
 <br />
 <br />
+ 
 <img src= "https://i.imgur.com/ERlcnvW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
-</p>
+
 <br />
 <br />
+ 
 </p>
 <br />
 <br />
@@ -150,7 +152,8 @@ Step 8: Login to DC-1 as Luffy_Admin
 <br />
 <br />
 <img src= "https://i.imgur.com/bFI4pnJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-</p>
+
+
 </p>
 <br />
 <br />
