@@ -178,4 +178,4 @@ https://user-images.githubusercontent.com/119460677/214143495-f18be381-8b5c-4b3c
 Step 8: Employees created from Windows PowerShell Ise into the Active Directory
 <br />
 <br />
-<img src= "https://i.imgur.com/RnMixrr.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/RnMixrr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
