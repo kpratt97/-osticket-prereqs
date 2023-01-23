@@ -131,7 +131,7 @@ https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e
 <p align="center">
 Step 7: Click “Remote Desktop” Allow “domain users” access to remote desktop
  <br/>
-<img src= "https://i.imgur.com/ERlcnvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/ERlcnvW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <br />
