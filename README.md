@@ -133,7 +133,8 @@ https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e
 <br />
 <br />
 <p align="center">
-Step 7: Click “Remote Desktop” Allow “domain users” access to remote desktop
+Step 7: Click “Remote Desktop” Allow “domain users” access to remote desktop. 
+ Now we're able to login into Client-1 as a non-administrative user.
 <br />
 <br />
 <img src= "https://i.imgur.com/ERlcnvW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
@@ -153,8 +154,6 @@ Step 8: Login to DC-1 as Luffy_Admin
 </p>
 <br />
 <br />
-
-
 
 <p align="center">
 Step 9: Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain computer will restart. :  
