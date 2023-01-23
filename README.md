@@ -53,7 +53,8 @@ Sanitization Steps"/>
 <br />
 <br />
 <p align="center">
-Install Active Directory : Login to DC-1 to install Active Directory Domain Services  
+Install Active Directory : Login to DC-1 to install Active Directory Domain Services, it also requested to create a forest called "myteddy.com"
+ ( It's not shown in the video but it will request a forest when installing active directory)
  <br/>
 
 https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
