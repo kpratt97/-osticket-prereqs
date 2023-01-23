@@ -142,7 +142,7 @@ Step 7: Click “Remote Desktop” Allow “domain users” access to remote des
 <p align="center">
 Step 7: Click “Remote Desktop” Allow “domain users” access to remote desktop
  <br/>
-<img src= "(https://i.imgur.com/bFI4pnJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src= "https://i.imgur.com/bFI4pnJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 <br />
