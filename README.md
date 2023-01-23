@@ -58,10 +58,12 @@ Step 4: Install Active Directory : Login to DC-1 to install Active Directory Dom
  <br/>
 
 https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
+<br />
+<br />
+ 
+ <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<br />
-<br />
-Sanitization complete:  <br/>
+
 <br />
 <br />
 
