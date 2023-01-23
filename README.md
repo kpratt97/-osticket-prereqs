@@ -65,6 +65,8 @@ https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b
 <br />
  <p align="center">
  Step 4 cont'd: Create forest during active directory installation
+ <br />
+<br />
  <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
