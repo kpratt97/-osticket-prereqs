@@ -184,7 +184,7 @@ Step 10: Employees created from Windows PowerShell Ise into the Active Directory
 <br />
 <br />
 <p align="center">
-Step 11: Logged in with generated generated user from Windows PowerShell Ise into the Active Directory
+Finally Step 11: Logged into Client-1 with a generated account from Active Directory 
 <br />
 <br />
 <img src= "https://i.imgur.com/dumuO7w.png" height="60%" width="80%" alt="Disk Sanitization Steps"/>
