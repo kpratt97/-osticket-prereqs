@@ -109,6 +109,8 @@ https://user-images.githubusercontent.com/119460677/213627540-ebfa1117-f602-40eb
 <br />
 <p align="center">
 Step 5 cont'd: Restart client 1.  <br/>
+ <br />
+<br />
 <img src="https://i.imgur.com/GWILOLN.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
