@@ -87,7 +87,12 @@ Step 5 Post AD installation: Create a new employee named “Luffy Monkey” (sam
  
 <br />
 <br />
- 
+<p align="center">
+Step 5: set Client-1’s DNS settings to the DC’s Private IP address
+<br />
+<br />
+
+
 https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940-8257-692d417dd1fb.mp4
 
 
