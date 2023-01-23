@@ -8,7 +8,7 @@ Active Directory is a database and set of services that connect users with the n
 
 <h2>Languages and Utilities Used</h2>
 
-- <b> Windpws PowerShell_Ise</b> 
+- <b> Windows PowerShell_Ise</b> 
 - <b>Server Manager</b>
 - <b>Microsoft Azure</b>
 <h2>Environments Used </h2>
