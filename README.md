@@ -47,20 +47,24 @@ Step 3: Login to the Domain Controller and enable ICMPv4 Protocols through Windo
 
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
 
-Sanitization Steps"/>
+
 <br />
 
 <br />
 <br />
 <p align="center">
-Step 4: Install Active Directory : Login to DC-1 to install Active Directory Domain Services, it also requested to create a forest called "myteddy.com"
- ( It's not shown in the video but it will request a forest when installing active directory)
+Step 4: Install Active Directory : Login to DC-1 to install Active Directory Domain Services, it also requested to create a forest called "myteddy.com" shown in the picture example after the video
+
  <br/>
 
 https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b-a203-094e8e749160.mp4
-<br />
-<br />
  
+<br />
+</p>
+<br />
+<br />
+ <p align="center">
+ Step 4 cont'd: Creating forest during active directory installation
  <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
