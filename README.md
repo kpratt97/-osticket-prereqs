@@ -81,10 +81,11 @@ https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd
 
 <br />
 <br />
-  <br/>
-</p>
-
-
+<br/>
+<p align="center">
+Step 5 Post AD installation: Create a new employee named “Luffy Monkey” (same password) with the username of “Luffy_admin”
+<br />
+<br />
 https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940-8257-692d417dd1fb.mp4
 
 
