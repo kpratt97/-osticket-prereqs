@@ -75,7 +75,7 @@ Step 5 Post AD installation: In Active Directory Users and Computers create an O
 Create a new OU named “_ADMINS_”
 <br />
 <br />
-
+ 
 https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd-95ca-37e35889df54.mp4
 
 
@@ -86,6 +86,7 @@ https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd
 Step 5 Post AD installation: Create a new employee named “Luffy Monkey” (same password) with the username of “Luffy_admin”
 <br />
 <br />
+ 
 https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940-8257-692d417dd1fb.mp4
 
 
