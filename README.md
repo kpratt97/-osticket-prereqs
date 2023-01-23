@@ -107,18 +107,28 @@ https://user-images.githubusercontent.com/119460677/213627540-ebfa1117-f602-40eb
 </p>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+<p align="center">
+Step 5 cont'd: Restart client 1.  <br/>
 <img src="https://i.imgur.com/GWILOLN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
-
+</p>
+<br />
+<br />
+<p align="center">
+Step 6: Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain  :  
+<br/>
+<br />
+<br />
+ 
 https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e-af4e-60cdeda8b895.mp4
 
 
 </p>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+<p align="center">
+Step 6: Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
