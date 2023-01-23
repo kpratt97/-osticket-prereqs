@@ -1,6 +1,6 @@
 <h1>Active Directory Deployment</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration] (https://youtu.be/6ig5vTzME20)
 
 <h2>Description</h2>
 Active Directory is a database and set of services that connect users with the network resources they need to get their work done. The database (or directory) contains critical information about your environment, including what users and computers there are and who's allowed to do what.
@@ -9,7 +9,7 @@ Active Directory is a database and set of services that connect users with the n
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell Ise</b> 
+- <b> Windpws PowerShell_Ise</b> 
 - <b>Server Manager</b>
 - <b>Microsoft Azure</b>
 <h2>Environments Used </h2>
