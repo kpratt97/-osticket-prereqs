@@ -130,7 +130,8 @@ https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e
 <br />
 <p align="center">
 Step 7: Click “Remote Desktop” Allow “domain users” access to remote desktop
- <br/>
+<br />
+<br />
 <img src= "https://i.imgur.com/ERlcnvW.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
@@ -141,7 +142,8 @@ Step 7: Click “Remote Desktop” Allow “domain users” access to remote des
 <br />
 <p align="center">
 Step 8: Login to DC-1 as Luffy_Admin
- <br/>
+<br />
+<br />
 <img src= "https://i.imgur.com/bFI4pnJ.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
