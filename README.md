@@ -171,3 +171,11 @@ Step 9: Open PowerShell_ise as an administrator create a new File, paste the con
 https://user-images.githubusercontent.com/119460677/214143495-f18be381-8b5c-4b3c-9dda-b39b3166903b.mp4
 
 
+</p>
+<br />
+<br />
+<p align="center">
+Step 8: Employees created from Windows PowerShell Ise into the Active Directory
+<br />
+<br />
+<img src= "https://i.imgur.com/RnMixrr.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
