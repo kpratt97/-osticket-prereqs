@@ -64,10 +64,15 @@ https://user-images.githubusercontent.com/119460677/213621848-956ab6bb-2e68-445b
 <br />
 <br />
  <p align="center">
- Step 4 cont'd: Creating forest during active directory installation
+ Step 4 cont'd: Create forest during active directory installation
  <img src="https://i.imgur.com/JusQXiY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+<br />
+<br />
+<p align="center">
+Step 5 Post AD installation: In Active Directory Users and Computers create an Organizational Unit called “_EMPLOYEES_”
+Create a new OU named “_ADMINS_”
 <br />
 <br />
 
@@ -76,7 +81,7 @@ https://user-images.githubusercontent.com/119460677/213623591-ce98c861-3f94-44cd
 
 <br />
 <br />
-Observe the wiped disk:  <br/>
+  <br/>
 </p>
 
 
@@ -85,7 +90,7 @@ https://user-images.githubusercontent.com/119460677/213626070-d3ef4de0-7696-4940
 
 <br />
 <br />
-Observe the wiped disk:  <br/>
+  <br/>
 
 
 https://user-images.githubusercontent.com/119460677/213627540-ebfa1117-f602-40eb-9c1f-0fe5acb08e2d.mp4
@@ -94,7 +99,7 @@ https://user-images.githubusercontent.com/119460677/213627540-ebfa1117-f602-40eb
 </p>
 <br />
 <br />
-Observe the wiped disk:  <br/>
+
 
 
 https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e-af4e-60cdeda8b895.mp4
