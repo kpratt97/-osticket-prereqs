@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/119460677/213619351-5dde2022-8b5a-4b68
 <br />
 <br />
 <p align="center">
-Step 2: Set Domain Controller’s NIC Private IP address to be static:
+Step 2: In Azure, Set Domain Controller’s (DC-1) NIC Private IP address to be static:
 <br/>
 
 
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/119460677/213609792-7a9cd55c-b7e6-4031
 <br />
 <br />
 <p align="center">
-Step 3: Login to the Domain Controller and enable ICMPv4 Protocols through Windows Firewall: <br/>
+Step 3: Login to the DC-1 (remote desktop) and enable ICMPv4 Protocols through Windows Firewall: <br/>
 <br />
 
 https://user-images.githubusercontent.com/119460677/213612294-610c95ef-d380-4f13-b2c8-b88996f2308a.mp4
@@ -133,3 +133,13 @@ Step 7: Click “Remote Desktop” Allow “domain users” access to remote des
  <br/>
 <img src= "https://i.imgur.com/ERlcnvW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+</p>
+<br />
+<br />
+<p align="center">
+Step 8: Login to Client-1 (Remote Desktop) as the original local admin (labuser) and join it to the domain computer will restart. :  
+<br/>
+<br />
+<br />
+ 
+https://user-images.githubusercontent.com/119460677/213628327-a2a802f5-d735-469e-af4e-60cdeda8b895.mp4
