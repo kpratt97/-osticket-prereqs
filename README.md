@@ -15,6 +15,7 @@ Active Directory is a database and set of services that connect users with the n
 
 - <b>Windows 10</b> (21H2)
 - <b>Remote Desktop</b>
+- <b>Active Directory</b>
 
 <h2>Program walk-through:</h2>
 
